@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Lpi9sZacN0xB6/giphy.gif" alt="Boneco Programando">
+</p>
+
 ### Sobre Mim
 
 - 🔭 Atualmente trabalho como desenvolvedor backend, focado em criar aplicações web robustas e escaláveis.
@@ -40,47 +44,6 @@
   - **Docker:** Expertise em containerizar aplicações para ambientes consistentes e portáteis.
 - **Tecnologias Web:**
   - **HTML, CSS:** Forte compreensão dos fundamentos do desenvolvimento web e construção de interfaces de usuário responsivas.
-
-### Experiência
-
-#### Full Stack Developer / ITEL (Instituto de Telecomunicação) (2018-2019)
-- Identificação e solução de problemas com sistemas computacionais.
-- Criação de microservices escaláveis e robustos.
-- Integração de microservices com API Gateway.
-- Integração entre backend e frontend.
-- Garantia de desempenho, segurança de aplicações e TDD.
-
-#### Backend Developer / Dand Business Investments and Representations (SNIR) (2019-2021)
-- Desenvolvimento e manutenção de APIs e microservices.
-- Integração com serviços de terceiros.
-- Garantia de desempenho, segurança de aplicações e TDD.
-
-#### Backend Developer / Dr Cash Services Technologic LTDA (Dr.Cash) (2021 - Atual)
-- Desenvolvimento de APIs RESTful e GRPC.
-- Implementação de testes unitários e de integração.
-- Manutenção de microservices usando Docker e Kubernetes.
-- Garantia de desempenho, segurança de aplicações e TDD.
-
-
-### Formação Acadêmica
-
-- **Técnico de Informática / Instituto de Telecomunicações (ITEL) (2016-2019)**
-- **Engenharia Informática / Instituto Superior Técnico De Angola (ISTA) (2020 - Presente)**
-
-### Cursos Profissionais
-
-- **CSharp (SOLID, Design Patterns, Refactoring, AspNet Core)**
-- **Angular (SOLID, Design Patterns)**
-- **Node.js (SOLID, Design Patterns)**
-- **JavaScript**
-- **DevOps**
-- **GoLang**
-- **Docker, Kubernetes**
-
-### Idiomas
-
-- **Português**
-- **Inglês**
 
 ### Estatísticas do GitHub
 
