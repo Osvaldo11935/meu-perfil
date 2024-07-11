@@ -84,11 +84,11 @@
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Osvaldo11935&show_icons=true&count_private=true)
 
 ### Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Osvaldo11935&layout=compact)
 
 ### Vamos Conectar?
 
